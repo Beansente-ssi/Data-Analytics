@@ -11,8 +11,6 @@ Here are some examples of projects I worked on professionally and self-initiated
 - **[Coffee Sales Report]**: Analyzing sales trends and product performance using Power BI.
 - **[Patient Management Report]**: Tracking patient data and hospital metrics using Power BI.
 
----
-
 ## Tools & Technologies
 Some of the tools and technologies I used in these projects include:
 
