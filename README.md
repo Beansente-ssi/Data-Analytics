@@ -1,6 +1,6 @@
 <h1 align="center">Data Analytics Portfolio</h1>
 
-Welcome to my Data Analytics Portfolio!
+---
 
 ## About
 This repository contains a collection of projects I have worked on, including professional and personal endeavors. This highlights a variety of data analytics projects I have completed, ranging from exploratory data analysis (EDA) to advanced visualizations.
